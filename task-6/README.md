@@ -1,4 +1,5 @@
- <video width="320" height="240" controls>
-  <source src="Video/video.mkv" type="video/mkv">
-Your browser does not support the video tag.
-</video> 
+# Flutter based UI
+You can find the source to the application in the application folder
+
+## Here is a demo
+<p align="center"><img src="Video/video.gif"/></a></p>
