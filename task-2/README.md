@@ -28,5 +28,5 @@ Create directory ```Coordinates-Location``` using ```mkdir Coordinates-Location`
 -```git add``` to make commit\
 -```git push``` to push the file to the remote repository\
 
-<p align="center"><img src="task-2/assets/location.png" width="100%"/></a></p>
+<p align="center"><img src="assets/location.png" width="100%"/></a></p>
 <br/>
